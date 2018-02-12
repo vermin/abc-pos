@@ -19,6 +19,7 @@ What is POS?
 to mid-size businesses. As a hibrid cloud-desktop-mobile solution, It supports variety 
 of functions, and more importantly, it is registered and thus legitimate to issue fiscal 
 invoices and to manage stock for business units like bars, shops, restaurants and similar.
+For different country support, see eg.: [SKY POS RS](http://sky-pos.rs)
 
 Why BCH POS utility?
 ---------------------
