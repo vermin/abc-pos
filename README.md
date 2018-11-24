@@ -33,7 +33,7 @@ stealth digital currency, can gain for being utilized on the field as well.
 Solution
 ---------------------
 
-The solution of the BCH POS utility should support the following:
+The solution of the ABC POS utility should support the following:
  - business owner's wallet and stealth address generation MUSTHAVE
  - end customer's wallet and stealth address generation OPTIONAL
  - in-POS payment option to pay the invoice as a whole or a part of it via BCH on the fly MUSTHAVE
