@@ -21,7 +21,7 @@ of functions, and more importantly, it is registered and thus legitimate to issu
 invoices and to manage stock for business units like bars, shops, restaurants and similar.
 For different country support, see eg.: [SKY POS RS](http://sky-pos.rs)
 
-Why BCH POS utility?
+Why ABC POS utility?
 ---------------------
 
 We want to integrate BCH into POS both as a payment option as well as a purchase article
