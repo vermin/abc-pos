@@ -41,3 +41,8 @@ The solution of the ABC POS utility should support the following:
  - mobile wallet OPTIONAL
 
 Note that POS issues paper tickets which can be extended to print out transactions and ads.
+
+```
+Licensed under the EUPL-1.2  
+Copyright (c) 2017-2019 SkyPos
+```
