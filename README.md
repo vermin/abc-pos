@@ -1,5 +1,14 @@
 ABC POS Utility
-===========
+======================
+
+[![License](https://img.shields.io/badge/license-EUPL--1.2-red)](https://opensource.org/licenses/EUPL-1.2)
+
+## License
+```
+Licensed under the EUPL-1.2
+Copyright (c) 2019 WAZN Project
+Copyright (c) 2018 The Masari Project
+```
 
 What is Bitcon Cash?
 ---------------------
@@ -42,6 +51,7 @@ The solution of the ABC POS utility should support the following:
 
 Note that POS issues paper tickets which can be extended to print out transactions and ads.
 
+## License
 ```
 Licensed under the EUPL-1.2  
 Copyright (c) 2017-2019 SkyPos
