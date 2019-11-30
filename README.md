@@ -1,4 +1,4 @@
-ABC POS utility
+ABC POS Utility
 ===========
 
 What is Bitcon Cash?
